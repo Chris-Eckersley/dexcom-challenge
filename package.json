@@ -1,0 +1,28 @@
+{
+  "name": "dexcom-challenge",
+  "version": "1.0.0",
+  "description": "Test code for dexcom",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chris-Eckersley/dexcom-challenge.git"
+  },
+  "keywords": [
+    "challenge",
+    "dexcom",
+    "test"
+  ],
+  "author": "Chris Eckersley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chris-Eckersley/dexcom-challenge/issues"
+  },
+  "homepage": "https://github.com/Chris-Eckersley/dexcom-challenge#readme",
+  "dependencies": {
+    "mocha": "^7.1.1",
+    "superagent": "^5.2.2"
+  }
+}
